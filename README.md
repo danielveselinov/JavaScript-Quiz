@@ -1,1 +1,1 @@
-# JavaScript-Quiz
+## Simple HTML/CSS & JavaScript Quiz
